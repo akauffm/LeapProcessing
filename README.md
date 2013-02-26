@@ -5,7 +5,7 @@ A Processing Library for Leap Motion
 
 This is just a port of the Java example included in the Leap SDK.
 
-To get started, download and unzip into the libraries folder in your Processing sketchbook.
+To get started, download and unzip this repo. Rename the folder "LeapJava" and move it into the libraries folder in your Processing sketchbook.
 
 Quit and restart Processing.
 
